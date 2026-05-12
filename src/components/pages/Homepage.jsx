@@ -1,6 +1,6 @@
 import React from "react";
 import BottomNavbar from "./BottomNavbar";
-import SearchBar from "c:/Users/mmari/Downloads/SearchBar";
+import SearchBar from "../SearchBar";
 
 // Hero section
 

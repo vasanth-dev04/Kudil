@@ -1,5 +1,3 @@
-@import "tailwindcss";
-
 * {
   margin: 0;
   padding: 0;
@@ -96,8 +94,7 @@ body {
   position: relative; /* Necessary to contain the pseudo-element */
   z-index: 1;
 }
-. {
-}
+
 
 .hero-main::before {
   content: "";
@@ -1059,9 +1056,6 @@ body {
   }
   .second-section-btn {
     width: 100%;
-  }
-  .second-section-right {
-    /* min-height: 300px; */
   }
 }
 
